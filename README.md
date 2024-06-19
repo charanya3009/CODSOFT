@@ -48,6 +48,31 @@ To run the sales prediction model, please ensure you have the following dependen
 - scikit-learn
 - matplotlib
 
+### TASK 3 - CREDIT CARD FRAUD DETECTION WITH MACHINE LEARNING
+
+### Introduction
+
+Credit card fraud is a significant issue in the financial industry, leading to substantial financial losses. This project aims to address this problem by building a credit card fraud detection model using machine learning techniques. By analyzing transaction data, we can train the model to identify potentially fraudulent transactions, helping to prevent fraud and secure financial transactions.
+
+### Features
+
+- Utilizes Python for building the credit card fraud detection model.
+- Applies machine learning algorithms for training and classification.
+- Implements data preprocessing and feature engineering.
+- Uses Logistic Regression for the classification task.
+- Allows for custom prediction inputs.
+
+### Installation
+
+To run the credit card fraud detection model, please ensure you have the following dependencies installed:
+
+- Python 3.x
+- numpy
+- pandas
+- scikit-learn
+- matplotlib
+
+
 
 
 
